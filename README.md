@@ -121,4 +121,3 @@ Prediction: No
 - LinkedIn: https://www.linkedin.com/in/adil-ovungal/
 - GitHub: https://github.com/adilovungal
 
-![Streamlit UI](App Screenshot.png)
