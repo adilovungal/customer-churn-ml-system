@@ -101,7 +101,7 @@ Output:
 Churn Probability: 0.20  
 Prediction: No
 ```
-
+![Streamlit UI](App Screenshot.png)
 ---
 
 ## Future Improvements
