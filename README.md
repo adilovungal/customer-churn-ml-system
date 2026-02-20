@@ -1,5 +1,5 @@
 # End-to-End Customer Churn Prediction
-
+Production-style machine learning system to predict telecom customer churn using an end-to-end deployable pipeline.
 ## Problem Statement
 Telecom companies face significant revenue loss due to customer churn.  
 This project builds a production-style machine learning system to predict customer churn risk and enable proactive retention strategies.
