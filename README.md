@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Train model
-
+Dataset not included due to size; place telco_churn.csv in data/ before training.
 ```
 python -m src.train_model
 ```
